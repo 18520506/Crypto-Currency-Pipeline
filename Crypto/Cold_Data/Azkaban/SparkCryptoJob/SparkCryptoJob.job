@@ -1,0 +1,2 @@
+type = command
+command = bash -i /home/binhnguyen2/Pictures/Crypto/Azkaban/SparkCryptoJob/CryptoData.sh
